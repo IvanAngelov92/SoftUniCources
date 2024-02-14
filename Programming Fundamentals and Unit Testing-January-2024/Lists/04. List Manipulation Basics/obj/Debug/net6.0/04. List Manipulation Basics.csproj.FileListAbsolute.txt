@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\refint\04. List Manipulation Basics.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\ref\04. List Manipulation Basics.dll

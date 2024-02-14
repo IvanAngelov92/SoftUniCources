@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\bin\Debug\net6.0\01. Number Type.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\bin\Debug\net6.0\01. Number Type.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\bin\Debug\net6.0\01. Number Type.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\bin\Debug\net6.0\01. Number Type.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\bin\Debug\net6.0\01. Number Type.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\refint\01. Number Type.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\01. Number Type.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\01. Number Type\obj\Debug\net6.0\ref\01. Number Type.dll

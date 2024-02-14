@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\refint\1. Days in Minutes.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\ref\1. Days in Minutes.dll

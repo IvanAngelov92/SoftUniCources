@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\refint\06. Day Of Week.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\06. Day Of Week\obj\Debug\net6.0\ref\06. Day Of Week.dll

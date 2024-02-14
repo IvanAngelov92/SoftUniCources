@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\bin\Debug\net6.0\09. Orders.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\bin\Debug\net6.0\09. Orders.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\bin\Debug\net6.0\09. Orders.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\bin\Debug\net6.0\09. Orders.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\bin\Debug\net6.0\09. Orders.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\refint\09. Orders.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\09. Orders.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Methods\09. Orders\obj\Debug\net6.0\ref\09. Orders.dll

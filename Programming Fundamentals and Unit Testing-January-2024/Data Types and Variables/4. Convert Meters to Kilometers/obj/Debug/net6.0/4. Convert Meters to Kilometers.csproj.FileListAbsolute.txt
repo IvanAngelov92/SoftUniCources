@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\refint\4. Convert Meters to Kilometers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\ref\4. Convert Meters to Kilometers.dll

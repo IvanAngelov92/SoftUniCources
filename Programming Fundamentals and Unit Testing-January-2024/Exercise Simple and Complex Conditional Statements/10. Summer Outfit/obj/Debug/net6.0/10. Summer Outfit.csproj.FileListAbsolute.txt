@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\refint\10. Summer Outfit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\10. Summer Outfit\obj\Debug\net6.0\ref\10. Summer Outfit.dll

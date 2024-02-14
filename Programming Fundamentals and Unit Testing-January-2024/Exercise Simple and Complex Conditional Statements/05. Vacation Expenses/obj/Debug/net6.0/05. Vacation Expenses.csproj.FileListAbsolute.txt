@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net6.0\05. Vacation Expenses.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net6.0\05. Vacation Expenses.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net6.0\05. Vacation Expenses.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net6.0\05. Vacation Expenses.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net6.0\05. Vacation Expenses.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\refint\05. Vacation Expenses.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\05. Vacation Expenses.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net6.0\ref\05. Vacation Expenses.dll

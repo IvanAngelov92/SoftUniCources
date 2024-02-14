@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\bin\Debug\net6.0\05. Aquarium.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\bin\Debug\net6.0\05. Aquarium.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\bin\Debug\net6.0\05. Aquarium.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\bin\Debug\net6.0\05. Aquarium.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\bin\Debug\net6.0\05. Aquarium.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\refint\05. Aquarium.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\05. Aquarium.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\05. Aquarium\obj\Debug\net6.0\ref\05. Aquarium.dll

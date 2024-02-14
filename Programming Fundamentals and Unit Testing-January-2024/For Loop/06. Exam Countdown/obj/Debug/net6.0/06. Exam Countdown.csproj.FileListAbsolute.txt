@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\refint\06. Exam Countdown.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\ref\06. Exam Countdown.dll

@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\refint\04. Even and Odd Subtraction.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays - Lab\04. Even and Odd Subtraction\obj\Debug\net6.0\ref\04. Even and Odd Subtraction.dll

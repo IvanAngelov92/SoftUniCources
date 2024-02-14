@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\bin\Debug\net6.0\05. Sum Digits.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\refint\05. Sum Digits.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\05. Sum Digits.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\05. Sum Digits\obj\Debug\net6.0\ref\05. Sum Digits.dll

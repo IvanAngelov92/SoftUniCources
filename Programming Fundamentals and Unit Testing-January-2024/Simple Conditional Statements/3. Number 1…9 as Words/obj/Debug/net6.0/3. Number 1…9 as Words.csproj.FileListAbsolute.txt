@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\bin\Debug\net6.0\3. Number 1…9 as Words.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\refint\3. Number 1…9 as Words.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\3. Number 1…9 as Words.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\3. Number 1…9 as Words\obj\Debug\net6.0\ref\3. Number 1…9 as Words.dll

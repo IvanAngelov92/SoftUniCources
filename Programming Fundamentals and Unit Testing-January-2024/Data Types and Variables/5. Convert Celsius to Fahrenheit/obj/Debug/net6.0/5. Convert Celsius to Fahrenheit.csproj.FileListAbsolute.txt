@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\refint\5. Convert Celsius to Fahrenheit.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\ref\5. Convert Celsius to Fahrenheit.dll

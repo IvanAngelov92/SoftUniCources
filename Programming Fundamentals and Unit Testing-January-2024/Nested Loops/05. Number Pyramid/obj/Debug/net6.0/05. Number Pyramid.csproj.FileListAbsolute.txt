@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\bin\Debug\net6.0\05. Number Pyramid.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\refint\05. Number Pyramid.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\05. Number Pyramid.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops - Lab\05. Number Pyramid\obj\Debug\net6.0\ref\05. Number Pyramid.dll

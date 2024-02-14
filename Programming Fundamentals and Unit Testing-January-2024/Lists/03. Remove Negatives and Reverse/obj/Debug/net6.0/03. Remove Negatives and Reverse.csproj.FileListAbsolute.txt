@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\refint\03. Remove Negatives and Reverse.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\ref\03. Remove Negatives and Reverse.dll

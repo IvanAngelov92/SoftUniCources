@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\bin\Debug\net6.0\02. Redecorating.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\bin\Debug\net6.0\02. Redecorating.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\bin\Debug\net6.0\02. Redecorating.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\bin\Debug\net6.0\02. Redecorating.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\bin\Debug\net6.0\02. Redecorating.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\refint\02. Redecorating.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\02. Redecorating.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\02. Redecorating\obj\Debug\net6.0\ref\02. Redecorating.dll

@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\refint\04. Food or Drink.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\ref\04. Food or Drink.dll

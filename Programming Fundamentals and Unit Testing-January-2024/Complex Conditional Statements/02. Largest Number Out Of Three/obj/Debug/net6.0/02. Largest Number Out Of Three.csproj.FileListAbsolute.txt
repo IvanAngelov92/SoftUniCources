@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\bin\Debug\net6.0\02. Largest Number Out Of Three.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\bin\Debug\net6.0\02. Largest Number Out Of Three.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\bin\Debug\net6.0\02. Largest Number Out Of Three.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\bin\Debug\net6.0\02. Largest Number Out Of Three.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\bin\Debug\net6.0\02. Largest Number Out Of Three.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\refint\02. Largest Number Out Of Three.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\02. Largest Number Out Of Three.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\02. Largest Number Out Of Three\obj\Debug\net6.0\ref\02. Largest Number Out Of Three.dll

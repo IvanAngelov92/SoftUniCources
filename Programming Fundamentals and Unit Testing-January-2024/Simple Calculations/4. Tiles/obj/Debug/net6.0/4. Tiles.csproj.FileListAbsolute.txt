@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\bin\Debug\net6.0\4. Tiles.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\refint\4. Tiles.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\4. Tiles.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\4. Tiles\obj\Debug\net6.0\ref\4. Tiles.dll

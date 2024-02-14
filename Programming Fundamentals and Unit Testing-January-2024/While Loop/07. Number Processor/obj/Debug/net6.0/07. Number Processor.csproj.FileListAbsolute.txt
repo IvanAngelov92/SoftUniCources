@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\bin\Debug\net6.0\07. Number Processor.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\bin\Debug\net6.0\07. Number Processor.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\bin\Debug\net6.0\07. Number Processor.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\bin\Debug\net6.0\07. Number Processor.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\bin\Debug\net6.0\07. Number Processor.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\refint\07. Number Processor.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\07. Number Processor.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\07. Number Processor\obj\Debug\net6.0\ref\07. Number Processor.dll

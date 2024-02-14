@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\bin\Debug\net6.0\6. Boiling Water.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\bin\Debug\net6.0\6. Boiling Water.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\bin\Debug\net6.0\6. Boiling Water.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\bin\Debug\net6.0\6. Boiling Water.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\bin\Debug\net6.0\6. Boiling Water.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\refint\6. Boiling Water.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\6. Boiling Water.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\6. Boiling Water\obj\Debug\net6.0\ref\6. Boiling Water.dll

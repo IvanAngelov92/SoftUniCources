@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\refint\02. Decreasing Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\02. Decreasing Numbers\obj\Debug\net6.0\ref\02. Decreasing Numbers.dll

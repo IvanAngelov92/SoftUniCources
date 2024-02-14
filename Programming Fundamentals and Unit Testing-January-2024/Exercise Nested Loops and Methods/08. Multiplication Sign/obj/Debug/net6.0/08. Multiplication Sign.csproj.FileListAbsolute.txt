@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\bin\Debug\net6.0\08. Multiplication Sign.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\bin\Debug\net6.0\08. Multiplication Sign.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\bin\Debug\net6.0\08. Multiplication Sign.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\bin\Debug\net6.0\08. Multiplication Sign.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\bin\Debug\net6.0\08. Multiplication Sign.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\refint\08. Multiplication Sign.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\08. Multiplication Sign.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Nested Loops and Methods - Exercise\08. Multiplication Sign\obj\Debug\net6.0\ref\08. Multiplication Sign.dll

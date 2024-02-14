@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\bin\Debug\net6.0\02. ATM.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\bin\Debug\net6.0\02. ATM.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\bin\Debug\net6.0\02. ATM.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\bin\Debug\net6.0\02. ATM.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\bin\Debug\net6.0\02. ATM.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\refint\02. ATM.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\02. ATM.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\02. ATM\obj\Debug\net6.0\ref\02. ATM.dll

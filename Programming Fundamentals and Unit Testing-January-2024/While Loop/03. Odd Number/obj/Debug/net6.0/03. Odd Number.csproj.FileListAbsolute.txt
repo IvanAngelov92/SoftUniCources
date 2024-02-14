@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\bin\Debug\net6.0\03. Odd Number.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\bin\Debug\net6.0\03. Odd Number.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\bin\Debug\net6.0\03. Odd Number.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\bin\Debug\net6.0\03. Odd Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\bin\Debug\net6.0\03. Odd Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\refint\03. Odd Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\03. Odd Number.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\03. Odd Number\obj\Debug\net6.0\ref\03. Odd Number.dll

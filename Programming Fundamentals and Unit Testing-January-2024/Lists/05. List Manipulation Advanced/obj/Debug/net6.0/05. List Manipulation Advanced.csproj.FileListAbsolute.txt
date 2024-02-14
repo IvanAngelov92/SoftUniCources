@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\refint\05. List Manipulation Advanced.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\ref\05. List Manipulation Advanced.dll

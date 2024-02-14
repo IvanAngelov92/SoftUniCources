@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\bin\Debug\net6.0\2. Even or Odd.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\bin\Debug\net6.0\2. Even or Odd.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\bin\Debug\net6.0\2. Even or Odd.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\bin\Debug\net6.0\2. Even or Odd.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\bin\Debug\net6.0\2. Even or Odd.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\refint\2. Even or Odd.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\2. Even or Odd.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\2. Even or Odd\obj\Debug\net6.0\ref\2. Even or Odd.dll

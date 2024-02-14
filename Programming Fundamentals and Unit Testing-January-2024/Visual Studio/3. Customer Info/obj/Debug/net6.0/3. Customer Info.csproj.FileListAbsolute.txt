@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\refint\3. Customer Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\ref\3. Customer Info.dll

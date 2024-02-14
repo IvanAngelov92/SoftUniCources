@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\refint\05. Invalid Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\ref\05. Invalid Number.dll

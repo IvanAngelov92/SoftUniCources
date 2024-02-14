@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\bin\Debug\net6.0\9. Area of Figures.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\bin\Debug\net6.0\9. Area of Figures.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\bin\Debug\net6.0\9. Area of Figures.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\bin\Debug\net6.0\9. Area of Figures.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\bin\Debug\net6.0\9. Area of Figures.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\refint\9. Area of Figures.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\9. Area of Figures.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\9. Area of Figures\obj\Debug\net6.0\ref\9. Area of Figures.dll

@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\bin\Debug\net6.0\8. Ticket Price.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\bin\Debug\net6.0\8. Ticket Price.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\bin\Debug\net6.0\8. Ticket Price.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\bin\Debug\net6.0\8. Ticket Price.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\bin\Debug\net6.0\8. Ticket Price.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\refint\8. Ticket Price.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\8. Ticket Price.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\8. Ticket Price\obj\Debug\net6.0\ref\8. Ticket Price.dll

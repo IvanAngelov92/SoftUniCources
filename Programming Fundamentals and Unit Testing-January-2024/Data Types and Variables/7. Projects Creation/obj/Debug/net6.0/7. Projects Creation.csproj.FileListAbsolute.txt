@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\refint\7. Projects Creation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\ref\7. Projects Creation.dll

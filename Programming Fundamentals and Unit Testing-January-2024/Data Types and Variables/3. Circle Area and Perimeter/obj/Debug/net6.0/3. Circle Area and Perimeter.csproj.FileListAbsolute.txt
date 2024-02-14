@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\refint\3. Circle Area and Perimeter.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\ref\3. Circle Area and Perimeter.dll

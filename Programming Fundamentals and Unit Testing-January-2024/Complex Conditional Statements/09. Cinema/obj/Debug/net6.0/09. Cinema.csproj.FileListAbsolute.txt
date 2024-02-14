@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\refint\09. Cinema.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\ref\09. Cinema.dll

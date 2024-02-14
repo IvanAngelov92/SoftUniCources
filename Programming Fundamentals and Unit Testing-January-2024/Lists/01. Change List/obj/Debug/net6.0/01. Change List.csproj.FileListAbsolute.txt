@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\refint\01. Change List.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\01. Change List\obj\Debug\net6.0\ref\01. Change List.dll

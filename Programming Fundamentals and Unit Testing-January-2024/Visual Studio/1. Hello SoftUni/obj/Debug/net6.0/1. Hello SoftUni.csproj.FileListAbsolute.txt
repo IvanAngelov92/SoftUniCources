@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\bin\Debug\net6.0\1. Hello SoftUni.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\refint\1. Hello SoftUni.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\1. Hello SoftUni.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\1. Hello SoftUni\obj\Debug\net6.0\ref\1. Hello SoftUni.dll

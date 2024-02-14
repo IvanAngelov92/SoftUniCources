@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\bin\Debug\net6.0\2. Square Area.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\bin\Debug\net6.0\2. Square Area.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\bin\Debug\net6.0\2. Square Area.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\bin\Debug\net6.0\2. Square Area.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\bin\Debug\net6.0\2. Square Area.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\refint\2. Square Area.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\2. Square Area.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Commands and Visual Studio - Exercise\2. Square Area\obj\Debug\net6.0\ref\2. Square Area.dll

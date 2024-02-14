@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\bin\Debug\net6.0\06. Number in Range.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\bin\Debug\net6.0\06. Number in Range.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\bin\Debug\net6.0\06. Number in Range.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\bin\Debug\net6.0\06. Number in Range.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\bin\Debug\net6.0\06. Number in Range.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\refint\06. Number in Range.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\06. Number in Range.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\While Loop - Lab\new\06. Number in Range\obj\Debug\net6.0\ref\06. Number in Range.dll

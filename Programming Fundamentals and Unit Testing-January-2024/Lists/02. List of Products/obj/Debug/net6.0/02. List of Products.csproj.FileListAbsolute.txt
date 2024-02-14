@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\refint\02. List of Products.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Lists - Lab\02. List of Products\obj\Debug\net6.0\ref\02. List of Products.dll

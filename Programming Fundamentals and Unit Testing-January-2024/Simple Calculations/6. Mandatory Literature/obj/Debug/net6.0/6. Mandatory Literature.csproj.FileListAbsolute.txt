@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\refint\6. Mandatory Literature.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\ref\6. Mandatory Literature.dll

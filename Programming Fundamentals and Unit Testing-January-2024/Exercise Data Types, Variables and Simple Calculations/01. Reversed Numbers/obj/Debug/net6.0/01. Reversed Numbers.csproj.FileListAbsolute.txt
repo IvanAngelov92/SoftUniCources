@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\bin\Debug\net6.0\01. Reversed Numbers.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\bin\Debug\net6.0\01. Reversed Numbers.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\bin\Debug\net6.0\01. Reversed Numbers.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\bin\Debug\net6.0\01. Reversed Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\bin\Debug\net6.0\01. Reversed Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\refint\01. Reversed Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\01. Reversed Numbers.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Data Types, Variables and Simple Calculations - Exercise\01. Reversed Numbers\obj\Debug\net6.0\ref\01. Reversed Numbers.dll

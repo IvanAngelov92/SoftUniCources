@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\bin\Debug\net6.0\1. USD to EUR.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\bin\Debug\net6.0\1. USD to EUR.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\bin\Debug\net6.0\1. USD to EUR.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\bin\Debug\net6.0\1. USD to EUR.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\bin\Debug\net6.0\1. USD to EUR.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\refint\1. USD to EUR.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\1. USD to EUR.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Calculations - Lab\1. USD to EUR\obj\Debug\net6.0\ref\1. USD to EUR.dll

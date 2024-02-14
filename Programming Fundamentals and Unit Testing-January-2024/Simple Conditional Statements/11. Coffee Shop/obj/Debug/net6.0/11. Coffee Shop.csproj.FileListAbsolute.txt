@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\refint\11. Coffee Shop.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\ref\11. Coffee Shop.dll

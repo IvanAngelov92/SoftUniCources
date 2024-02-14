@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\bin\Debug\net6.0\4. Greater Number.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\bin\Debug\net6.0\4. Greater Number.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\bin\Debug\net6.0\4. Greater Number.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\bin\Debug\net6.0\4. Greater Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\bin\Debug\net6.0\4. Greater Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\refint\4. Greater Number.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\4. Greater Number.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple Conditional Statements - Lab\4. Greater Number\obj\Debug\net6.0\ref\4. Greater Number.dll

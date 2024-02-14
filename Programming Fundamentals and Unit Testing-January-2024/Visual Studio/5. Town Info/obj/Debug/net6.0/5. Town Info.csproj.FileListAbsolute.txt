@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\refint\5. Town Info.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Visual Studio\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\ref\5. Town Info.dll

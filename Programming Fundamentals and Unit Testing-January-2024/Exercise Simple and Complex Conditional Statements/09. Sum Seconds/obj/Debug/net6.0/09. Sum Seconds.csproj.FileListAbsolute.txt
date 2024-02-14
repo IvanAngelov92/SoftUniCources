@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\refint\09. Sum Seconds.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Simple and Complex Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net6.0\ref\09. Sum Seconds.dll
