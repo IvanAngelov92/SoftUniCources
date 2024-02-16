@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\refint\08. Array Rotation.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\ref\08. Array Rotation.dll

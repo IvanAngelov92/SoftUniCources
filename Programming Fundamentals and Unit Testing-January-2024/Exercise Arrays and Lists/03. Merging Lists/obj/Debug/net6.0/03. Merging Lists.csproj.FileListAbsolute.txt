@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\bin\Debug\net6.0\03. Merging Lists.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\refint\03. Merging Lists.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\03. Merging Lists.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\03. Merging Lists\obj\Debug\net6.0\ref\03. Merging Lists.dll

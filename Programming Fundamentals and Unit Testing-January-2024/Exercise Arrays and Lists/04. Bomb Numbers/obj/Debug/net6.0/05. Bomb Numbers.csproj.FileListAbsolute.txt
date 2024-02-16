@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\bin\Debug\net6.0\05. Bomb Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\refint\05. Bomb Numbers.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\05. Bomb Numbers.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Задачи\Arrays and Lists - Exercise\05. Bomb Numbers\obj\Debug\net6.0\ref\05. Bomb Numbers.dll
