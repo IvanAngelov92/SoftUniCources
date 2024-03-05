@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD52FEB-A3FA-4429-9E92-939C4985E88B}|demo\\demo.csproj|d:\\c#\\programming fundamentals and unit testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\exam\\exam\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD52FEB-A3FA-4429-9E92-939C4985E88B}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4880F3E6-16BD-42A5-B7F9-E64E4F8612AE}|Problem01\\Problem01.csproj|d:\\c#\\programming fundamentals and unit testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\exam\\exam\\problem01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4880F3E6-16BD-42A5-B7F9-E64E4F8612AE}|Problem01\\Problem01.csproj|solutionrelative:problem01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE71D23-3F42-4327-B70E-80D7AC5CE5D8}|Problem02\\Problem02.csproj|d:\\c#\\programming fundamentals and unit testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\exam\\exam\\problem02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE71D23-3F42-4327-B70E-80D7AC5CE5D8}|Problem02\\Problem02.csproj|solutionrelative:problem02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:33:16.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\Problem02\\Program.cs",
+              "RelativeDocumentMoniker": "Problem02\\Program.cs",
+              "ToolTip": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\Problem02\\Program.cs",
+              "RelativeToolTip": "Problem02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:32:57.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\Problem01\\Program.cs",
+              "RelativeDocumentMoniker": "Problem01\\Program.cs",
+              "ToolTip": "D:\\C#\\Programming Fundamentals and Unit Testing - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Exam\\Exam\\Problem01\\Program.cs",
+              "RelativeToolTip": "Problem01\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:31:35.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

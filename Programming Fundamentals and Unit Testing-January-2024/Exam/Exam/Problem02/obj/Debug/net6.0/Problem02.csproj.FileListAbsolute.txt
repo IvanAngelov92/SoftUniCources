@@ -1,0 +1,14 @@
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\bin\Debug\net6.0\Problem02.exe
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\bin\Debug\net6.0\Problem02.deps.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\bin\Debug\net6.0\Problem02.runtimeconfig.json
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\bin\Debug\net6.0\Problem02.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\bin\Debug\net6.0\Problem02.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.AssemblyInfoInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.AssemblyInfo.cs
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.csproj.CoreCompileInputs.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\refint\Problem02.dll
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.pdb
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\Problem02.genruntimeconfig.cache
+D:\C#\Programming Fundamentals and Unit Testing - януари 2024\Exam\Exam\Problem02\obj\Debug\net6.0\ref\Problem02.dll
