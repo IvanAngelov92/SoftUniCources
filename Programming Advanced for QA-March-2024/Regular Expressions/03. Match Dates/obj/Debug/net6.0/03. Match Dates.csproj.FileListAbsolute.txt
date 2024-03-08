@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\refint\03. Match Dates.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Regular Expressions\03. Match Dates\obj\Debug\net6.0\ref\03. Match Dates.dll
