@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll
