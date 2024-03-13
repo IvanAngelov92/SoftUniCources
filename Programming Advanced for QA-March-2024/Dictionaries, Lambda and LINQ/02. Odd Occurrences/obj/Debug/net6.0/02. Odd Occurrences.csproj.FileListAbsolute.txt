@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\refint\02. Odd Occurrences.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\net6.0\ref\02. Odd Occurrences.dll
