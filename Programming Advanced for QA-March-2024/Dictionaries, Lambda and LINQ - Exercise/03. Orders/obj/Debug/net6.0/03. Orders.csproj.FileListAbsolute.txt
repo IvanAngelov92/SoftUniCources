@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\refint\03. Orders.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\ref\03. Orders.dll

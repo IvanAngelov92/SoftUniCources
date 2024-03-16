@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\refint\02. A Miner Task.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\02. A Miner Task\obj\Debug\net6.0\ref\02. A Miner Task.dll

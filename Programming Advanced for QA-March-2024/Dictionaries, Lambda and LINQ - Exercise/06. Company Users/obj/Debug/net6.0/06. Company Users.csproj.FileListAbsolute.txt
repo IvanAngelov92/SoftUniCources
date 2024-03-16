@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\refint\06. Company Users.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\ref\06. Company Users.dll
