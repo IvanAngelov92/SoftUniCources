@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\bin\Debug\net6.0\01. Songs.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\bin\Debug\net6.0\01. Songs.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\bin\Debug\net6.0\01. Songs.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\bin\Debug\net6.0\01. Songs.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\bin\Debug\net6.0\01. Songs.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\refint\01. Songs.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\01. Songs.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\01. Songs\obj\Debug\net6.0\ref\01. Songs.dll

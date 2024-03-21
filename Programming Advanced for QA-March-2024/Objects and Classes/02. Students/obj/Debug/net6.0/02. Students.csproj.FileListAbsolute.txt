@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\bin\Debug\net6.0\02. Students.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\bin\Debug\net6.0\02. Students.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\bin\Debug\net6.0\02. Students.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\bin\Debug\net6.0\02. Students.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\bin\Debug\net6.0\02. Students.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\refint\02. Students.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\02. Students.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Objects and Classes\02. Students\obj\Debug\net6.0\ref\02. Students.dll
