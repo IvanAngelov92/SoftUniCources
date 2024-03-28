@@ -1,0 +1,11 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Unit Testing Exercise Objects and Classes\TestApp\obj\Debug\net6.0\ref\TestApp.dll
