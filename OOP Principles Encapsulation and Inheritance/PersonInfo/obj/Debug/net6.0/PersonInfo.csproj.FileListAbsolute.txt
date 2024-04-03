@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Encapsulation and Inheritance\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
