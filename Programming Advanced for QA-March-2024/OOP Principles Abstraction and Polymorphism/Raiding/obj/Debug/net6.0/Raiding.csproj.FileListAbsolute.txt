@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\OOP Principles Abstraction and Polymorphism\Raiding\obj\Debug\net6.0\ref\Raiding.dll
