@@ -1,0 +1,14 @@
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\C#\Programming Advanced for QA - март 2024\Задачи\Exercise Implementing an OOP Hierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll
